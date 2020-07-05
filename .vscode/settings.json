@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "C:\\ProgramData\\Miniconda3\\python.exe",
+    "vscodeGoogleTranslate.preferredLanguage": "ko",
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "python.autoComplete.addBrackets": true,
+    "editor.suggest.showColors": false,
+    "editor.suggest.showCustomcolors": false,
+    "editor.suggest.maxVisibleSuggestions": 15,
+    "python.condaPath": "C:\\Users\\ksd20\\Anaconda3\\Scripts",
+    "python.dataScience.ignoreVscodeTheme": true,
+    "python.languageServer": "Microsoft",
+    "python.linting.banditEnabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
