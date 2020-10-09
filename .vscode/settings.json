@@ -8,8 +8,10 @@
     "editor.suggest.maxVisibleSuggestions": 15,
     "python.condaPath": "C:\\Users\\ksd20\\Anaconda3\\Scripts",
     "python.dataScience.ignoreVscodeTheme": true,
-    "python.languageServer": "Microsoft",
+    "python.languageServer": "Pylance",
     "python.linting.banditEnabled": false,
     "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "cmake.configureOnOpen": true,
+    "python.analysis.completeFunctionParens": true
 }
